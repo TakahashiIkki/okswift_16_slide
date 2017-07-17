@@ -1,5 +1,5 @@
 # テーマ
-thema: Moon
+thema: black
 
 #コードのシンタックスハイライトの設定
 highlight : monokai
@@ -9,3 +9,6 @@ transition : fade
 
 #スライドのページ数表示の設定
 slide-number: true
+
+#フットノートの設定
+footnote : "@ikkitang on okswift 16-commit"
