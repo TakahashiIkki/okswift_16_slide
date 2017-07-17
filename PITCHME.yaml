@@ -1,0 +1,11 @@
+# テーマ
+thema: Moon
+
+#コードのシンタックスハイライトの設定
+highlight : monokai
+
+#トランジションの設定
+transition : fade
+
+#スライドのページ数表示の設定
+slide-number: true
